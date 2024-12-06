@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Manual do Estagiário na CAIXA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de um ebook para orientação de estagiários.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Microsoft Copilot, Microsoft Power Point.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Conteúdo baseado nos conhecimentos do curso.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook simples e completo de orientação para estagiarios.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
